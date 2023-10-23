@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T01:41:18 EET" name="Default suite" finished-at="2023-10-17T01:41:56 EET" duration-ms="38318">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T01:41:18 EET" name="Default test" finished-at="2023-10-17T01:41:56 EET" duration-ms="38318">
+      <class name="calculater_mobile_assertion.calculaterClass">
+        <test-method is-config="true" signature="TheSetUp()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:18 EET" name="TheSetUp" finished-at="2023-10-17T01:41:39 EET" duration-ms="20927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheSetUp -->
+        <test-method signature="testAddition()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:39 EET" name="testAddition" description="Addition" finished-at="2023-10-17T01:41:45 EET" duration-ms="6041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method signature="testDivision()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:45 EET" name="testDivision" description="Division" finished-at="2023-10-17T01:41:48 EET" duration-ms="3281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method signature="testMultiplication()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:48 EET" name="testMultiplication" description="Multiplication" finished-at="2023-10-17T01:41:52 EET" duration-ms="3920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method signature="testSubtraction()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:52 EET" name="testSubtraction" description="Subtraction" finished-at="2023-10-17T01:41:56 EET" duration-ms="4021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:calculater_mobile_assertion.calculaterClass@77847718]" started-at="2023-10-17T01:41:56 EET" name="PostTesting" finished-at="2023-10-17T01:41:56 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- calculater_mobile_assertion.calculaterClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
